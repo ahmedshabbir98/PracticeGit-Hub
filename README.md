@@ -1,2 +1,2 @@
 # PracticeGit-Hub
-pracice 
+practice 
